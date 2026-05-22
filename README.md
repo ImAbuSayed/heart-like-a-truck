@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-like-a-truck/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Heart Like a Truck](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-like-a-truck/) |
+| **Get License** | [Get a Licensing Quote for Heart Like a Truck](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-like-a-truck/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6aa13125702cd76c9a82cfc69f5663e3c9e61acb3a075a285448aafac0e03bd5` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
