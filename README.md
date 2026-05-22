@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-like-a-truck/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Heart Like a Truck](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-like-a-truck/) |
+| **Get License** | [Get License For Heart Like a Truck](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-like-a-truck/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire whenever you pull me close
+> You are the secret that nobody else knows
+> A little touch and the engine starts to run
+> We are just starting, the night has just begun
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
